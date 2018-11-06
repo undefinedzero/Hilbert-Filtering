@@ -8,6 +8,6 @@
 * IDE: MATLAB
 * Description: We implemented `Hilbert Filtering method` in MATLAB and analyzed its error after the filtering comparing to input signals.
 
-* Partial Result:
+* Results(incomplete, see full results in Project Summary):
 
   ![result1](./readme-img/result1.png)
